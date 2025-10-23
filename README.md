@@ -1,6 +1,6 @@
 # poker-game
 ## Overview
-A single-table Texas Hold'em game (2–8 players) running locally. Backend: Node/Express/Socket.IO. Frontend: React + Vite + Tailwind. Admin panel at `/admin`.
+A single-table Texas Hold'em game (2–8 players) running locally. Backend: Node/Express/Socket.IO. Frontend: React + Vite + Tailwind.
 
 ## How To Run locally (in Codespaces / WebStorm)
 1. Frontend:
@@ -11,6 +11,4 @@ A single-table Texas Hold'em game (2–8 players) running locally. Backend: Node
 3. Backend (don't worry about this if Chandra is there):
    Make a second terminal or port
    ```bash
-   cd backend
-   npm install
-   npm run dev
+   cd backend && npm install && npm run dev
