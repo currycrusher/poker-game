@@ -4,12 +4,11 @@ A single-table Texas Hold'em game (2–8 players) running locally. Backend: Node
 
 ## How To Run locally (in Codespaces / WebStorm)
 1. Frontend:
+   Paste the following command into a terminal
    ```bash
-   cd frontend
-   npm install
-   npm run dev
+   cd frontend && npm install && npm run dev
 
-2. Backend (don't worry about this if Chandra is there):
+3. Backend (don't worry about this if Chandra is there):
    Make a second terminal or port
    ```bash
    cd backend
